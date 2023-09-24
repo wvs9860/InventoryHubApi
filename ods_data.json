@@ -1,0 +1,17 @@
+{
+  "data":
+ [
+  {
+    "oed_id": 109,
+    "oed_name": "70992-MA01",
+    "tableName": "ods_edge"
+  },
+  {
+  
+    "oed_id": 110,
+    "oed_name": "70993-MA02",
+    "tableName": "ods_edge"
+  }
+  
+ ]
+}
